@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "express-ifttt-webhook": "^0.2.3"
+    "express-ifttt-webhook": "git+https://github.com/therealjeffg/express-ifttt-webhook.git"
   }
 }
